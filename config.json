@@ -1,0 +1,9 @@
+{
+    "usewebhook": "false",
+    "webhooklink": "Discord Webhook",
+    "token": "Your Token",
+    "alttoken": "Your Alt Token",
+    "claimwithalt": "false",
+    "useblacklist": "false"
+}
+  
